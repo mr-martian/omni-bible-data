@@ -1,0 +1,7 @@
+db = 'merged.db'
+
+[import]
+username = 'macula'
+mode = 'macula-node'
+infiles = ['macula-hebrew/WLC/nodes/[0-9]*.xml']
+glob = true

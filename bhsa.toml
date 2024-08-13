@@ -1,0 +1,6 @@
+db = 'merged.db'
+
+[import]
+username = 'BHSA'
+mode = 'textfabric'
+infiles = ['bhsa/tf/2021']
